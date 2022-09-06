@@ -6,6 +6,7 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import android.content.Intent;
 import android.os.Bundle;
+import android.os.Vibrator;
 import android.view.View;
 import android.widget.Button;
 import android.widget.Toast;
@@ -32,6 +33,8 @@ public class HomeActivity extends AppCompatActivity {
     public RecyclerView recyclerViewPosts;
     public RecyclerView recyclerViewCommunity;
 
+    Vibrator vibrator;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -40,12 +43,13 @@ public class HomeActivity extends AppCompatActivity {
         getSupportActionBar().hide();
 
         Button logIn = (Button)findViewById(R.id.logIn);
+        vibrator = (Vibrator) getSystemService(VIBRATOR_SERVICE);
         logIn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
 
                 Intent intent = new Intent(HomeActivity.this, LogInActivity.class);
-
+                vibrator.vibrate(5000);
                 startActivity(intent);
             }
         });

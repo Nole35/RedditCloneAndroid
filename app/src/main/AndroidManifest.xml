@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
     package="com.example.redditcloneandroid">
 
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.VIBRATE"/>
 
     <application
         android:allowBackup="true"
@@ -16,17 +18,15 @@
         <activity
             android:name=".FlairZajA"
             android:exported="false" />
-        <activity
-            android:name=".activity_community_flairs"
-            android:exported="false"
-            android:label="@string/title_activity_community_flairs"
-            android:theme="@style/Theme.RedditCloneAndroid.NoActionBar" />
+
         <activity
             android:name=".PromeniSifruF"
-            android:exported="false" />
+            android:exported="false"
+            tools:ignore="Instantiatable" />
         <activity
             android:name=".AzuriranjeKorPosF"
-            android:exported="false" />
+            android:exported="false"
+            tools:ignore="Instantiatable" />
         <activity
             android:name=".IzgledZajednice"
             android:exported="false" />
@@ -38,34 +38,42 @@
             android:exported="false" />
         <activity
             android:name=".UkiniZajF"
-            android:exported="false" />
+            android:exported="false"
+            tools:ignore="Instantiatable" />
         <activity
             android:name=".FlairoviF"
-            android:exported="false" />
+            android:exported="false"
+            tools:ignore="Instantiatable" />
         <activity
             android:name=".PrijavaPostF"
-            android:exported="false" />
+            android:exported="false"
+            tools:ignore="Instantiatable" />
         <activity
             android:name=".PrijavaKomF"
-            android:exported="false" />
+            android:exported="false"
+            tools:ignore="Instantiatable" />
         <activity
             android:name=".BlokirajKorisnikaF"
-            android:exported="false" />
+            android:exported="false"
+            tools:ignore="Instantiatable" />
         <activity
             android:name=".PostA"
             android:exported="false" />
         <activity
             android:name=".DodavanjeZajF"
-            android:exported="false" />
+            android:exported="false"
+            tools:ignore="Instantiatable" />
         <activity
             android:name=".PravilaA"
             android:exported="false" />
         <activity
             android:name=".IkiniModF"
-            android:exported="false" />
+            android:exported="false"
+            tools:ignore="Instantiatable" />
         <activity
             android:name=".IzmeniPodOKorF"
-            android:exported="false" />
+            android:exported="false"
+            tools:ignore="Instantiatable" />
         <activity
             android:name=".KorisnikA"
             android:exported="false"
