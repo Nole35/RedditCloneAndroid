@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Projekti/redditcloneandroid/app/src/main/res/drawable/account_circle.xml" value="0.2965" />
+        <entry key="..\:/Projekti/redditcloneandroid/app/src/main/res/drawable/add_post.xml" value="0.233" />
+        <entry key="..\:/Projekti/redditcloneandroid/app/src/main/res/drawable/block.xml" value="0.2085" />
+        <entry key="..\:/Projekti/redditcloneandroid/app/src/main/res/drawable/blue_border.xml" value="0.331" />
+        <entry key="..\:/Projekti/redditcloneandroid/app/src/main/res/drawable/border_gray.xml" value="0.2085" />
+        <entry key="..\:/Projekti/redditcloneandroid/app/src/main/res/drawable/border_layout.xml" value="0.2965" />
+        <entry key="..\:/Projekti/redditcloneandroid/app/src/main/res/drawable/border_layout2.xml" value="0.331" />
+        <entry key="..\:/Projekti/redditcloneandroid/app/src/main/res/drawable/border_text_edit.xml" value="0.226" />
+        <entry key="..\:/Projekti/redditcloneandroid/app/src/main/res/drawable/corners.xml" value="0.226" />
+        <entry key="..\:/Projekti/redditcloneandroid/app/src/main/res/drawable/delete_btn.xml" value="0.2925" />
+        <entry key="..\:/Projekti/redditcloneandroid/app/src/main/res/drawable/join_btn.xml" value="0.226" />
+        <entry key="..\:/Projekti/redditcloneandroid/app/src/main/res/drawable/log_in_btn.xml" value="0.226" />
+        <entry key="..\:/Projekti/redditcloneandroid/app/src/main/res/drawable/report.xml" value="0.3255" />
+        <entry key="..\:/Projekti/redditcloneandroid/app/src/main/res/drawable/report_icon.xml" value="0.3255" />
+        <entry key="..\:/Projekti/redditcloneandroid/app/src/main/res/layout/activity_add_community.xml" value="0.36666666666666664" />
+        <entry key="..\:/Projekti/redditcloneandroid/app/src/main/res/layout/activity_add_post.xml" value="0.2790328973444312" />
+        <entry key="..\:/Projekti/redditcloneandroid/app/src/main/res/layout/activity_admin.xml" value="0.315625" />
+        <entry key="..\:/Projekti/redditcloneandroid/app/src/main/res/layout/activity_change_account_data.xml" value="0.264" />
+        <entry key="..\:/Projekti/redditcloneandroid/app/src/main/res/layout/activity_community_page.xml" value="0.2708333333333333" />
+        <entry key="..\:/Projekti/redditcloneandroid/app/src/main/res/layout/activity_community_rules.xml" value="0.36666666666666664" />
+        <entry key="..\:/Projekti/redditcloneandroid/app/src/main/res/layout/activity_fragment_one_post.xml" value="0.36666666666666664" />
+        <entry key="..\:/Projekti/redditcloneandroid/app/src/main/res/layout/activity_fragment_post_user_first_page.xml" value="0.328125" />
+        <entry key="..\:/Projekti/redditcloneandroid/app/src/main/res/layout/activity_home.xml" value="0.36666666666666664" />
+        <entry key="..\:/Projekti/redditcloneandroid/app/src/main/res/layout/activity_list_of_rules.xml" value="0.36666666666666664" />
+        <entry key="..\:/Projekti/redditcloneandroid/app/src/main/res/layout/activity_log_in.xml" value="0.36666666666666664" />
+        <entry key="..\:/Projekti/redditcloneandroid/app/src/main/res/layout/activity_main.xml" value="0.10277777777777777" />
+        <entry key="..\:/Projekti/redditcloneandroid/app/src/main/res/layout/activity_menu.xml" value="0.35260416666666666" />
+        <entry key="..\:/Projekti/redditcloneandroid/app/src/main/res/layout/activity_moderator.xml" value="0.36666666666666664" />
+        <entry key="..\:/Projekti/redditcloneandroid/app/src/main/res/layout/activity_one_post.xml" value="0.24114583333333334" />
+        <entry key="..\:/Projekti/redditcloneandroid/app/src/main/res/layout/activity_sign_up.xml" value="0.36666666666666664" />
+        <entry key="..\:/Projekti/redditcloneandroid/app/src/main/res/layout/activity_suspend_moderators.xml" value="0.25416666666666665" />
+        <entry key="..\:/Projekti/redditcloneandroid/app/src/main/res/layout/activity_user_first_page.xml" value="0.18493150684931506" />
+        <entry key="..\:/Projekti/redditcloneandroid/app/src/main/res/layout/add_comment_popup.xml" value="0.36666666666666664" />
+        <entry key="..\:/Projekti/redditcloneandroid/app/src/main/res/layout/block_card.xml" value="0.25416666666666665" />
+        <entry key="..\:/Projekti/redditcloneandroid/app/src/main/res/layout/change_post_text_popup.xml" value="0.15833333333333333" />
+        <entry key="..\:/Projekti/redditcloneandroid/app/src/main/res/layout/change_post_title_popup.xml" value="0.18333333333333332" />
+        <entry key="..\:/Projekti/redditcloneandroid/app/src/main/res/layout/comments.xml" value="0.36666666666666664" />
+        <entry key="..\:/Projekti/redditcloneandroid/app/src/main/res/layout/comments_card.xml" value="0.4" />
+        <entry key="..\:/Projekti/redditcloneandroid/app/src/main/res/layout/community_card.xml" value="0.2526041666666667" />
+        <entry key="..\:/Projekti/redditcloneandroid/app/src/main/res/layout/fragment_add_community.xml" value="0.36666666666666664" />
+        <entry key="..\:/Projekti/redditcloneandroid/app/src/main/res/layout/fragment_add_post.xml" value="0.4" />
+        <entry key="..\:/Projekti/redditcloneandroid/app/src/main/res/layout/fragment_block_user.xml" value="0.315625" />
+        <entry key="..\:/Projekti/redditcloneandroid/app/src/main/res/layout/fragment_change_account_data.xml" value="0.36666666666666664" />
+        <entry key="..\:/Projekti/redditcloneandroid/app/src/main/res/layout/fragment_change_password.xml" value="0.23489583333333333" />
+        <entry key="..\:/Projekti/redditcloneandroid/app/src/main/res/layout/fragment_home.xml" value="0.36666666666666664" />
+        <entry key="..\:/Projekti/redditcloneandroid/app/src/main/res/layout/fragment_list_of_flairs.xml" value="0.36666666666666664" />
+        <entry key="..\:/Projekti/redditcloneandroid/app/src/main/res/layout/fragment_one_post.xml" value="0.3229166666666667" />
+        <entry key="..\:/Projekti/redditcloneandroid/app/src/main/res/layout/fragment_post_user_first_page.xml" value="0.1962962962962963" />
+        <entry key="..\:/Projekti/redditcloneandroid/app/src/main/res/layout/fragment_reported_comments.xml" value="0.28854166666666664" />
+        <entry key="..\:/Projekti/redditcloneandroid/app/src/main/res/layout/fragment_reported_posts.xml" value="0.36666666666666664" />
+        <entry key="..\:/Projekti/redditcloneandroid/app/src/main/res/layout/fragment_slideshow.xml" value="0.36666666666666664" />
+        <entry key="..\:/Projekti/redditcloneandroid/app/src/main/res/layout/fragment_suspend_community.xml" value="0.36666666666666664" />
+        <entry key="..\:/Projekti/redditcloneandroid/app/src/main/res/layout/fragment_suspend_moderators.xml" value="0.315625" />
+        <entry key="..\:/Projekti/redditcloneandroid/app/src/main/res/layout/fragment_user_update_posts.xml" value="0.2604166666666667" />
+        <entry key="..\:/Projekti/redditcloneandroid/app/src/main/res/layout/fragments_block_user.xml" value="0.315625" />
+        <entry key="..\:/Projekti/redditcloneandroid/app/src/main/res/layout/nav_header.xml" value="0.36666666666666664" />
+        <entry key="..\:/Projekti/redditcloneandroid/app/src/main/res/layout/nav_header_test_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Projekti/redditcloneandroid/app/src/main/res/layout/post_card.xml" value="0.36666666666666664" />
+        <entry key="..\:/Projekti/redditcloneandroid/app/src/main/res/layout/post_update_card.xml" value="0.2604166666666667" />
+        <entry key="..\:/Projekti/redditcloneandroid/app/src/main/res/layout/reported_comm_card.xml" value="0.28854166666666664" />
+        <entry key="..\:/Projekti/redditcloneandroid/app/src/main/res/layout/reported_post_card.xml" value="0.28854166666666664" />
+        <entry key="..\:/Projekti/redditcloneandroid/app/src/main/res/layout/rules_card.xml" value="0.36666666666666664" />
+        <entry key="..\:/Projekti/redditcloneandroid/app/src/main/res/layout/spiner_item.xml" value="0.36666666666666664" />
+        <entry key="..\:/Projekti/redditcloneandroid/app/src/main/res/menu/activity_main_drawer.xml" value="0.36666666666666664" />
+        <entry key="..\:/Projekti/redditcloneandroid/app/src/main/res/menu/menu_bar.xml" value="0.36666666666666664" />
+        <entry key="..\:/Projekti/redditcloneandroid/app/src/main/res/menu/menu_bar_admin.xml" value="0.25416666666666665" />
+        <entry key="..\:/Projekti/redditcloneandroid/app/src/main/res/menu/menu_bar_moderator.xml" value="0.25416666666666665" />
+        <entry key="..\:/Projekti/redditcloneandroid/app/src/main/res/menu/test_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/RedditCloneAndroid/redditcloneandroid/app/src/main/res/layout/activity_add_post.xml" value="0.19947916666666668" />
+        <entry key="..\:/RedditCloneAndroid/redditcloneandroid/app/src/main/res/layout/activity_community_flairs.xml" value="0.265625" />
+        <entry key="..\:/RedditCloneAndroid/redditcloneandroid/app/src/main/res/layout/activity_community_page.xml" value="0.265625" />
+        <entry key="..\:/RedditCloneAndroid/redditcloneandroid/app/src/main/res/layout/activity_community_rules.xml" value="0.18802083333333333" />
+        <entry key="..\:/RedditCloneAndroid/redditcloneandroid/app/src/main/res/layout/activity_sign_up.xml" value="0.18802083333333333" />
+        <entry key="..\:/RedditCloneAndroid/redditcloneandroid/app/src/main/res/layout/change_post_text_popup.xml" value="0.30572916666666666" />
+        <entry key="..\:/RedditCloneAndroid/redditcloneandroid/app/src/main/res/layout/rules_card.xml" value="0.18802083333333333" />
+        <entry key="..\:/RedditCloneAndroid/redditcloneandroid/app/src/main/res/layout/update_options_popup.xml" value="0.30572916666666666" />
+        <entry key="..\:/Users/Nole/Downloads/redditcloneandroid/redditcloneandroid-main/app/src/main/res/drawable/account_circle.xml" value="0.198" />
+        <entry key="..\:/Users/Nole/Downloads/redditcloneandroid/redditcloneandroid-main/app/src/main/res/drawable/add_post.xml" value="0.198" />
+        <entry key="..\:/Users/Nole/Downloads/redditcloneandroid/redditcloneandroid-main/app/src/main/res/drawable/block.xml" value="0.198" />
+        <entry key="..\:/Users/Nole/Downloads/redditcloneandroid/redditcloneandroid-main/app/src/main/res/drawable/blue_border.xml" value="0.198" />
+        <entry key="..\:/Users/Nole/Downloads/redditcloneandroid/redditcloneandroid-main/app/src/main/res/drawable/border_layout.xml" value="0.198" />
+        <entry key="..\:/Users/Nole/Downloads/redditcloneandroid/redditcloneandroid-main/app/src/main/res/drawable/border_layout2.xml" value="0.198" />
+        <entry key="..\:/Users/Nole/Downloads/redditcloneandroid/redditcloneandroid-main/app/src/main/res/drawable/join_btn.xml" value="0.198" />
+        <entry key="..\:/Users/Nole/Downloads/redditcloneandroid/redditcloneandroid-main/app/src/main/res/drawable/log_in_btn.xml" value="0.198" />
+        <entry key="..\:/Users/Nole/Downloads/redditcloneandroid/redditcloneandroid-main/app/src/main/res/drawable/login.xml" value="0.198" />
+        <entry key="..\:/Users/Nole/Downloads/redditcloneandroid/redditcloneandroid-main/app/src/main/res/drawable/menu_icon.xml" value="0.198" />
+        <entry key="..\:/Users/Nole/Downloads/redditcloneandroid/redditcloneandroid-main/app/src/main/res/drawable/more_horiz.xml" value="0.198" />
+        <entry key="..\:/Users/Nole/Downloads/redditcloneandroid/redditcloneandroid-main/app/src/main/res/drawable/report.xml" value="0.198" />
+        <entry key="..\:/Users/Nole/Downloads/redditcloneandroid/redditcloneandroid-main/app/src/main/res/drawable/side_nav_bar.xml" value="0.198" />
+        <entry key="..\:/Users/Nole/Downloads/redditcloneandroid/redditcloneandroid-main/app/src/main/res/drawable/zajednica.xml" value="0.198" />
+        <entry key="..\:/Users/Nole/Downloads/redditcloneandroid/redditcloneandroid-main/app/src/main/res/layout/activity_add_post.xml" value="0.2296875" />
+        <entry key="..\:/Users/Nole/Downloads/redditcloneandroid/redditcloneandroid-main/app/src/main/res/layout/add_comment_popup.xml" value="0.2296875" />
+        <entry key="..\:/Users/Nole/Downloads/redditcloneandroid/redditcloneandroid-main/app/src/main/res/layout/block_card.xml" value="0.2296875" />
+        <entry key="..\:/Users/Nole/Downloads/redditcloneandroid/redditcloneandroid-main/app/src/main/res/layout/change_post_text_popup.xml" value="0.2296875" />
+        <entry key="..\:/Users/Nole/Downloads/redditcloneandroid/redditcloneandroid-main/app/src/main/res/layout/comments_card.xml" value="0.2296875" />
+        <entry key="..\:/Users/Nole/Downloads/redditcloneandroid/redditcloneandroid-main/app/src/main/res/layout/fragment_prijava_komentara.xml" value="0.2296875" />
+        <entry key="..\:/Users/Nole/Downloads/redditcloneandroid/redditcloneandroid-main/app/src/main/res/layout/nav_header.xml" value="0.2296875" />
+        <entry key="..\:/Users/Nole/Downloads/redditcloneandroid/redditcloneandroid-main/app/src/main/res/layout/post_card.xml" value="0.2296875" />
+        <entry key="..\:/Users/Nole/Downloads/redditcloneandroid/redditcloneandroid-main/app/src/main/res/layout/post_update_card.xml" value="0.2296875" />
+        <entry key="..\:/Users/Nole/Downloads/redditcloneandroid/redditcloneandroid-main/app/src/main/res/layout/priajvljeni_post_prozor.xml" value="0.2296875" />
+        <entry key="..\:/Users/Nole/Downloads/redditcloneandroid/redditcloneandroid-main/app/src/main/res/layout/reported_comm_card.xml" value="0.2296875" />
+        <entry key="..\:/Users/Nole/Downloads/redditcloneandroid/redditcloneandroid-main/app/src/main/res/layout/update_options_popup.xml" value="0.2296875" />
+        <entry key="..\:/Users/Nole/Downloads/redditcloneandroid/redditcloneandroid-main/app/src/main/res/menu/menu_bar.xml" value="0.264" />
+        <entry key="..\:/Users/Nole/Downloads/redditcloneandroidJole/redditcloneandroid/redditcloneandroid-main/app/src/main/res/layout/activity_dodavanje_posta.xml" value="0.265625" />
+        <entry key="..\:/Users/Nole/Downloads/redditcloneandroidJole/redditcloneandroid/redditcloneandroid-main/app/src/main/res/layout/activity_flair_zajednica.xml" value="0.2" />
+        <entry key="..\:/Users/Nole/Downloads/redditcloneandroidJole/redditcloneandroid/redditcloneandroid-main/app/src/main/res/layout/activity_home.xml" value="0.264" />
+        <entry key="..\:/Users/Nole/Downloads/redditcloneandroidJole/redditcloneandroid/redditcloneandroid-main/app/src/main/res/layout/activity_korisnik_pocetna.xml" value="0.265625" />
+        <entry key="..\:/Users/Nole/Downloads/redditcloneandroidJole/redditcloneandroid/redditcloneandroid-main/app/src/main/res/layout/activity_login.xml" value="0.265625" />
+        <entry key="..\:/Users/Nole/Downloads/redditcloneandroidJole/redditcloneandroid/redditcloneandroid-main/app/src/main/res/layout/activity_main.xml" value="0.265625" />
+        <entry key="..\:/Users/Nole/Downloads/redditcloneandroidJole/redditcloneandroid/redditcloneandroid-main/app/src/main/res/layout/activity_post.xml" value="0.265625" />
+        <entry key="..\:/Users/Nole/Downloads/redditcloneandroidJole/redditcloneandroid/redditcloneandroid-main/app/src/main/res/layout/activity_pravila.xml" value="0.265625" />
+        <entry key="..\:/Users/Nole/Downloads/redditcloneandroidJole/redditcloneandroid/redditcloneandroid-main/app/src/main/res/layout/activity_pravila_zajednice.xml" value="0.265625" />
+        <entry key="..\:/Users/Nole/Downloads/redditcloneandroidJole/redditcloneandroid/redditcloneandroid-main/app/src/main/res/layout/activity_registracija.xml" value="0.265625" />
+        <entry key="..\:/Users/Nole/Downloads/redditcloneandroidJole/redditcloneandroid/redditcloneandroid-main/app/src/main/res/layout/activity_zajednica.xml" value="0.265625" />
+        <entry key="..\:/Users/Nole/Downloads/redditcloneandroidJole/redditcloneandroid/redditcloneandroid-main/app/src/main/res/layout/azuriranje_posta_prozor.xml" value="0.265625" />
+        <entry key="..\:/Users/Nole/Downloads/redditcloneandroidJole/redditcloneandroid/redditcloneandroid-main/app/src/main/res/layout/azuriranje_prozor.xml" value="0.265625" />
+        <entry key="..\:/Users/Nole/Downloads/redditcloneandroidJole/redditcloneandroid/redditcloneandroid-main/app/src/main/res/layout/blokiranje_prozor.xml" value="0.265625" />
+        <entry key="..\:/Users/Nole/Downloads/redditcloneandroidJole/redditcloneandroid/redditcloneandroid-main/app/src/main/res/layout/dodavanje_komentara_prozor.xml" value="0.265625" />
+        <entry key="..\:/Users/Nole/Downloads/redditcloneandroidJole/redditcloneandroid/redditcloneandroid-main/app/src/main/res/layout/fragment_azuriranje_postova_korisnik.xml" value="0.265625" />
+        <entry key="..\:/Users/Nole/Downloads/redditcloneandroidJole/redditcloneandroid/redditcloneandroid-main/app/src/main/res/layout/fragment_blokiranje_korisnika.xml" value="0.265625" />
+        <entry key="..\:/Users/Nole/Downloads/redditcloneandroidJole/redditcloneandroid/redditcloneandroid-main/app/src/main/res/layout/fragment_dodavanje_zaajednice.xml" value="0.265625" />
+        <entry key="..\:/Users/Nole/Downloads/redditcloneandroidJole/redditcloneandroid/redditcloneandroid-main/app/src/main/res/layout/fragment_flairovi.xml" value="0.265625" />
+        <entry key="..\:/Users/Nole/Downloads/redditcloneandroidJole/redditcloneandroid/redditcloneandroid-main/app/src/main/res/layout/fragment_izmeni_podatke_o_korisniku.xml" value="0.265625" />
+        <entry key="..\:/Users/Nole/Downloads/redditcloneandroidJole/redditcloneandroid/redditcloneandroid-main/app/src/main/res/layout/fragment_izmeni_sifru.xml" value="0.265625" />
+        <entry key="..\:/Users/Nole/Downloads/redditcloneandroidJole/redditcloneandroid/redditcloneandroid-main/app/src/main/res/layout/fragment_post_korisnika_pocetna.xml" value="0.265625" />
+        <entry key="..\:/Users/Nole/Downloads/redditcloneandroidJole/redditcloneandroid/redditcloneandroid-main/app/src/main/res/layout/fragment_prijava_komentara.xml" value="0.265625" />
+        <entry key="..\:/Users/Nole/Downloads/redditcloneandroidJole/redditcloneandroid/redditcloneandroid-main/app/src/main/res/layout/fragment_prijava_posta.xml" value="0.265625" />
+        <entry key="..\:/Users/Nole/Downloads/redditcloneandroidJole/redditcloneandroid/redditcloneandroid-main/app/src/main/res/layout/fragment_ukini_moderatora.xml" value="0.265625" />
+        <entry key="..\:/Users/Nole/Downloads/redditcloneandroidJole/redditcloneandroid/redditcloneandroid-main/app/src/main/res/layout/fragment_ukini_zajednicu.xml" value="0.265625" />
+        <entry key="..\:/Users/Nole/Downloads/redditcloneandroidJole/redditcloneandroid/redditcloneandroid-main/app/src/main/res/layout/izmena_naslova_posta_prozor.xml" value="0.265625" />
+        <entry key="..\:/Users/Nole/Downloads/redditcloneandroidJole/redditcloneandroid/redditcloneandroid-main/app/src/main/res/layout/izmena_posta_prozor.xml" value="0.265625" />
+        <entry key="..\:/Users/Nole/Downloads/redditcloneandroidJole/redditcloneandroid/redditcloneandroid-main/app/src/main/res/layout/komentari_prozor.xml" value="0.265625" />
+        <entry key="..\:/Users/Nole/Downloads/redditcloneandroidJole/redditcloneandroid/redditcloneandroid-main/app/src/main/res/layout/nav_bar.xml" value="0.265625" />
+        <entry key="..\:/Users/Nole/Downloads/redditcloneandroidJole/redditcloneandroid/redditcloneandroid-main/app/src/main/res/layout/post_prozor.xml" value="0.265625" />
+        <entry key="..\:/Users/Nole/Downloads/redditcloneandroidJole/redditcloneandroid/redditcloneandroid-main/app/src/main/res/layout/pravila_prrozor.xml" value="0.265625" />
+        <entry key="..\:/Users/Nole/Downloads/redditcloneandroidJole/redditcloneandroid/redditcloneandroid-main/app/src/main/res/layout/priajvljeni_post_prozor.xml" value="0.265625" />
+        <entry key="..\:/Users/Nole/Downloads/redditcloneandroidJole/redditcloneandroid/redditcloneandroid-main/app/src/main/res/layout/prijavljeni_komentar_prozor.xml" value="0.265625" />
+        <entry key="..\:/Users/Nole/Downloads/redditcloneandroidJole/redditcloneandroid/redditcloneandroid-main/app/src/main/res/layout/zajednica_prozor.xml" value="0.265625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

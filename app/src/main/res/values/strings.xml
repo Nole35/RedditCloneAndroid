@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">RedditCloneAndroid</string>
+    <string name="uloguj_se">Uloguj se</string>
+    <string name="registruj_se">Registruj se</string>
+    <string name="korisnicko_ime">KorisnickoIme</string>
+    <string name="sifra">Sifra</string>
+    <string name="email">Email</string>
+    <string name="opis">Opis</string>
+    <string name="displayName">Display name</string>
+    <string name="komentari">Komentari</string>
+    <string name="dodaj_post">Dodaj Post</string>
+    <string name="naslov">Naslov</string>
+    <string name="slika">Slika</string>
+    <string name="flair">Flair</string>
+    <string name="potvrdi">Potvrdi</string>
+
+    <string-array name="username_post">
+        <item>Jole</item>
+        <item>Nole</item>
+        <item>Krle</item>
+    </string-array>
+
+    <string-array name="community_post">
+        <item>zaj1</item>
+        <item>zaj2</item>
+        <item>zaj3</item>
+    </string-array>
+
+    <string-array name="community_name">
+        <item>zajednicaime1</item>
+        <item>zajednicaime2</item>
+        <item>zajednicaime3</item>
+    </string-array>
+
+    <string-array name="title_post">
+        <item>Naslov1</item>
+        <item>Naslov2</item>
+        <item>Naslov3</item>
+    </string-array>
+
+    <string-array name="text_post">
+        <item>Post1</item>
+        <item>Post2</item>
+        <item>Post3</item>
+    </string-array>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+
+    <string-array name="rules">
+        <item>Pravilo1</item>
+        <item>Pravilo2</item>
+        <item>Pravilo3</item>
+        <item>Pravilo4</item>
+    </string-array>
+
+    <string-array name="sortPost">
+        <item>Top</item>
+        <item>New</item>
+        <item>Hot</item>
+    </string-array>
+
+    <string-array name="sortComments">
+        <item>Top</item>
+        <item>New</item>
+        <item>Old</item>
+    </string-array>
+
+    <string-array name="comments">
+        <item>Komentar1</item>
+        <item>Komentar2</item>
+        <item>Komentar3</item>
+        <item>Komentar4</item>
+    </string-array>
+    <string name="title_activity_community_flairs">activity_community_flairs</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+
+</resources>
