@@ -48,11 +48,33 @@ public class HomeActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
 
+
+
                 Intent intent = new Intent(HomeActivity.this, LogInActivity.class);
                 vibrator.vibrate(5000);
                 startActivity(intent);
             }
         });
+
+       /* @Override
+        public boolean dispatchKeyEvent(KeyEvent event) {
+            int action = event.getAction();
+            int keyCode = event.getKeyCode();
+            switch (keyCode) {
+                case KeyEvent.KEYCODE_VOLUME_UP:
+                    if (action == KeyEvent.ACTION_DOWN) {
+                        //TODO
+                    }
+                    return true;
+                case KeyEvent.KEYCODE_VOLUME_DOWN:
+                    if (action == KeyEvent.ACTION_DOWN) {
+                        //TODO
+                    }
+                    return true;
+                default:
+                    return super.dispatchKeyEvent(event);
+            }
+        }*/
 
         Button signUp = (Button)findViewById(R.id.signUp);
         signUp.setOnClickListener(new View.OnClickListener() {
