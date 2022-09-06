@@ -9,11 +9,8 @@ public class RetrofitServis {
 
     private Retrofit retrofit;
 
-    //PREKO NETA SA TELEFONA http://172.20.10.7:8080
-    //PREKO KUCNOG NETA http://192.168.0.172:8080
-    //INTERNET U LAJKOVCU http://192.168.1.5:8080
-    //NEMANJIN STAN http://192.168.0.30:8080
-    public static final String BASE_URL = "http://192.168.0.30:8080";
+
+    public static final String BASE_URL = "http://192.168.0.24:8080";
 
     public RetrofitServis(){
         initilazeRetrofit();
